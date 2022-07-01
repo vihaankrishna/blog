@@ -1,4 +1,4 @@
-baseurl = "http://vihaankrishna.github.io/blog/"
+baseurl = "http://vihaankrishna.github.io/"
 languageCode = "en"
 title = "Vihaan Krishna"
 theme = "kiss"
