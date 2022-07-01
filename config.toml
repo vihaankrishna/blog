@@ -43,9 +43,9 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 [params.social]
 twitter = "malkarisreeni"
 github = "vihaankrishna"
-email = "ask2seenu@gmail.com"
-linkedin = "vihaankrishna007"
-facebook = "ask2seenu"
+#email = "ask2seenu@gmail.com"
+#linkedin = "vihaankrishna007"
+#facebook = "ask2seenu"
 instagram = ""
 codepen = ""
 rss = "index.xml" # Add this to show RSS button in social.
