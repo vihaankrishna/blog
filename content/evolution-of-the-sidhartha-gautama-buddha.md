@@ -1,0 +1,23 @@
+---
+title: "Evolution of the Sidhartha Gautama Buddha"
+date: 2022-07-01T18:02:58+05:30
+draft: false
+---
+
+# EVOLUTION OF SIDDHARTHA GAUTAMA BUDDHA
+
+This is the story of the greatest Indian sage lived 2500 years ago inspiring millions of people with his great teachings showing a path towards enrichment of life. Today Buddhism is the fourth largest religion in the world, religion of peace and happiness. He was the son of a king a prince who has every luxurious comforts in life. He left a rich life of pleasure and prepared to leave himself to seek ultimate enlightenment. Before his has born his mother had a dream of a beautiful white elephant offered a lotus flower and then entered her body, when king asked astrologers and sages to find the meaning of the dream, they predicted the queen would give birth to a great ruler or a great spiritual teacher and after 10 months the queen gave birth to a baby boy and after a week of son born the queen died. The baby boy was called as Gautama Siddhartha a prince of a wealthiest kingdom.
+
+Siddhartha enjoys a great imaginable luxurious life from his childhood and he was brought up very delicately and precious without dirt dust cold or heat. His father gave Siddhartha three lotus ponds of red, white and blue lotuses bloom, and he was taken care in most beautiful palaces with art and music for his entertainment. His father created artificial environment to prevent Siddhartha from noticing pain suffering of the world to make him stay away for the spiritual life which was predicted from his birth. His father wants Siddhartha an emperor of 16 kingdoms of those times.
+
+Siddhartha's early life is joyful and pure pleasure and every wish is satisfied and every desire is fulfilled. He was surrounded by beautiful women, He had worn most precious jewellery and costliest garments and he had the finest foods, He is always surrounded by happiness entertainment with greatest musicians and dancers.
+
+His father married him to his cousin to make Siddhartha to stick to palace and family life. His father provided him everything and till the age of 29 his father never left him to see any suffering outside the world. Siddhartha was very happy joyful with his wife and a son.
+
+One day Siddhartha goes outside travelling through the kingdom and he as seen first of four encounters, He sees an old man and asks to the attendant and the attendant says, "That's the change of human body and one doesn't stay always young and fit". While Siddhartha travelling in his next encounter he sees a sick man and asks attendant and the attendant says, "That happens to all of us and everybody gets sick as its human body nature and don't think you were a price and you don't get sick and everybody will get sick as its universal fact". Siddhartha feels himself uneasy and asks attendant and chariot driver to out. on his third trip he recognizes impermanence, suffering, illness and death as the real state of things and world that he had been protected in the palace shielded and he realizes that he will also come across illness suffering, aging and death.
+
+Siddhartha wanted to know the true meaning of life he has kept innocent relationship to own life and wanting to know the full truth and in the fourth encounter he sees a spiritual seeker who has decided to live a pure complete spritual life other than his life in order to escape from the suffering and death cycle. Siddhartha want to sort this and he want to protect his children and don’t want to let his children to see pain and suffering in the world. As he already suffered the worst kind of loss that one could suffer suddenly a mysterious way his mother died when he was a week old.
+
+Siddhartha was determined to comprehend the nature of suffering and he decides to leave the palace and his wife who had just given birth to a baby boy. Siddhartha refused and left with grief and in absolute puzzlement in his heart as the life of his infant son who was innocent and He becomes suddenly fatherless and but "there is no knowledge one without sacrifice, and this is the hardest truths of human existence, in order to gain anything, you must first lose everything".
+
+Siddhartha left palace alone into the world for first time and he sits nearby river bank and cuts off his hair with his sword and goes out from home to homelessness alone. Siddhartha had been wounded by the luxurious joyful enjoyment of the world and now in search of obtaining peace and he wandered towards holy Ganges river, once a great prince now became a beggar surviving on charity of strangers and he slept in cold grounds and roamed into the dark forests and dangerous spirits. Siddhartha doesn't have any teacher or insight or any solution yet but he recognizes the problem.

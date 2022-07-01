@@ -1,0 +1,10 @@
+---
+title: "Train Your Money Management Skills"
+date: 2022-07-01T17:57:44+05:30
+draft: false
+
+---
+
+# TRAIN YOUR MONEY MANAGEMENT SKILLS
+
+Personal financial decision-making is so Crucial and so important, money management skills are more than what is being organized. We do have so many bucket strategies for diversifying and reaching the financial goalsEven though we have so many financial planning strategies we still end up with bad investment failures because of a lack of commitment to the strategies and their rules. Investment in stock markets runs between optimism and pessimism, the loss of accession creates the temptation to sell the stock when the markets are so low, and risk tolerance is one of the major psychological factors which affects investments. some times we do too much trading and end up with huge losses as we get trapped between fear and greed.We are in the generation of information overloaded and it makes it so tuff to make simple investment decisions. why do we need high-speed ticks of rate change every millisecond of data feeds? what is the use of continuous ticks which increases speculation on online trading, what is the use of this for an investor, and what does it matters to the investor for daily speculation of prices, too much information increases emotional behavior? The big difference which I have noticed between speculator and investor is the investor makes money for themselves and the speculators make money for the brokers. fluctuation of stock prices on the online trading terminal screens made its video games.We need to wait with patience for the right opportunity, and rebalance the investment at the right time, when the market sentiments are low and stock prices are low we need to sell the bonds and buy the stock, and when the market sentiments are high and stock prices are at higher we need to sell the stocks and buy the bonds. Also keeping the automatic investment funds is always the better choice and safer play for the retirement savingsStrictly following and carefully improving the Investment and trading discipline can boost and have a powerful impact on financial success in the long run.
