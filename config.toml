@@ -70,7 +70,7 @@ tag ="tags"
 hrefTargetBlank = true
 
 [params.sections_left]
-"/about" = "About me"
+"/blog/about" = "About me"
 
 [params.sections_right]
-"/contact" = "Contact me"
+"/blog/contact" = "Contact me"
