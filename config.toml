@@ -1,3 +1,76 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://www.example.com/"
+languageCode = "en"
+title = "Vihaan Krishna"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/malkarisreenivasulu\">Vihaan Krishna</a> 2021"
+#disqusShortname = "shortname"
+googleAnalytics = ""
+Paginate = 6 # Number of posts per page
+enableRobotsTXT = true
+
+[params.rss] # Adding this tag enables RSS feed
+includeContent = true # Includes whole content in rss
+authorName = "Vihaan Krishna" # Author full name
+authorEmail = "ask2seenu@gmail.com" # Author email
+
+[params.assets]
+customCSS = ["css/custom.css"]
+googleFonts = []
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = false # Adds powered by hugo and kiss below Copyright
+related = true # Includes related articles at the bottom of the article
+codeCopy = true # Add copy button above code blocks
+taxonomiesCount = true # Add taxonomies count
+
+[params.features]
+#disqusOnDemand = true  # Load Disqus comments on click
+mathjax = false
+katex = false
+
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+twitter = "ribicemir"
+github = "vihaankrishna"
+email = "ask2seenu@gmail.com"
+linkedin = "vihaankrishna"
+facebook = "vihaankrishna"
+instagram = ""
+codepen = ""
+rss = "index.xml" # Add this to show RSS button in social.
+
+[params.social.config]
+platforms = ["github","facebook","twitter","instagram","email","codepen","linkedin"]
+
+[params.matomoAnalytics]
+siteID = 1
+rootURL = "//matomo.example.com/"
+
+[params.fathomAnalytics]
+rootURL = "//fathom.example.com/"
+
+[params.plausibleAnalytics]
+domain = "plausible.com"
+
+[taxonomies]
+tag ="tags"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[params.sections_left]
+"/about" = "About me"
+
+[params.sections_right]
+"/contact" = "Contact me"
